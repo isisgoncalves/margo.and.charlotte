@@ -1,13 +1,13 @@
 body{
   background: rgb(255,255,255);
-  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(232,231,231,1) 100%);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgb(223, 222, 222) 100%);
 }
 
 main{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 200px;
+  gap: 180px;
   margin: 10px 60px;
 }
 
@@ -48,6 +48,7 @@ main{
 
 .text p{
   font-family: 'Pacifico', cursive;
+  font-weight: 400;
 }
 
 .insta{
