@@ -55,4 +55,7 @@ main{
   position: fixed;
   width: 90%;
   text-align: center;
+  margin-bottom: 10px;
+  font-family: 'Indie Flower', cursive;
+  font-weight: 700;
 }
