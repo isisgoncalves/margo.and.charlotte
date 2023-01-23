@@ -1,4 +1,4 @@
-# margo.and.charlotte
+# Margô & Charlotte
 
 ## Desafio
 
