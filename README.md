@@ -33,7 +33,7 @@ Atualmente trabalho com HTML e CSS, sendo JS meu próximo tópico de estudo.
 
 ## Demonstração
 
-<h1 align= "center"> 
+<h1 textalign= "center"> 
   <img alt="Página dedicada a duas gatinhas brancas" title="#Margo_and_Charlotte" src="image/img"/>
 </h1>
 
