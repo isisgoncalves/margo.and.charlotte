@@ -33,9 +33,9 @@ Atualmente trabalho com HTML e CSS, sendo JS meu próximo tópico de estudo.
 
 ## Demonstração
 
-<h1 textalign= "center"> 
-  <img alt="Página dedicada a duas gatinhas brancas" title="#Margo_and_Charlotte" src="image/img.gif"/>
-</h1>
+<p align="center">
+<img src="./image/img.gif" alt="">
+</p> 
 
 ## :open_file_folder: O que acha de acessar o projeto? 
 Você pode acessar o projeto clicando [aqui](https://isisgoncalves.github.io/margo.and.charlotte/).
